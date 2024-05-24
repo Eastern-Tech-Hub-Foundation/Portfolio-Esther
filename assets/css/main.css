@@ -3756,7 +3756,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ADD8E6;
+		background-color: #f5f9fa;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
@@ -3982,7 +3982,7 @@ input, select, textarea {
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #717981;
+			color: #010a13;
 		}
 
 		#footer blockquote {
